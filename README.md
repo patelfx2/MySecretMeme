@@ -1,2 +1,2 @@
 # MySecretMeme
-Memes only
+Memes only and random stuff
